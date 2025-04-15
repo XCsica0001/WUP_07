@@ -75,7 +75,8 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
-In our Chi-Square result, we recieved a p-value of 0.0012. Since this value is < 0.05, we reject our null (that dying is not independent of sex.) In our Fisher's test, we received a p-value of 0.0009 which is also < 0.05, we again will be rejecting the null hypothesis
+In our Chi-Square result, we received a p-value of 0.0012. Since this value is < 0.05, we reject our null (that dying is not independent of sex.) In our Fisher's test, we received a p-value of 0.0009 which is also < 0.05, we again will be rejecting the null hypothesis
 
 ## Conclusions
 
+The question we were addressing was if dying of COVID is independent of sex. We used a sample from Korea and used graphical, numerical, and inferential results to answer this question. From these, results, we saw that 98.7% of females lived, while 1.4% of them died and 97% of men lived, while 3% of the men died. Percentage wise, COVID killed about twice the amount of men then it did women. Eventually, we decided that our null hypothesis (that dying is not independent of sex) was rejected due to receiving p-values less thantha value of significance (0.0012 and 0.0009).
